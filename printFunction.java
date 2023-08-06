@@ -26,5 +26,7 @@ public class Question21{
         
         // Call the print() method of the School class
         school.print();
+    }
+}
 
 
